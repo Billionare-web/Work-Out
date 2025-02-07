@@ -3,12 +3,13 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBm-jq_RhvTMj-H5Kl7qEvgv8skwwckMKE",
-  authDomain: "gym-pro-ae5b5.firebaseapp.com",
-  projectId: "gym-pro-ae5b5",
-  storageBucket: "gym-pro-ae5b5.appspot.com",
-  messagingSenderId: "601207742172",
-  appId: "1:601207742172:web:a3c05b4dbfcacb083a1e19",
+  apiKey: "AIzaSyDE3ZPWAF4XCCFyxqpAY5USHBvh5dHglgA",
+  authDomain: "work-out-cf4e6.firebaseapp.com",
+  projectId: "work-out-cf4e6",
+  storageBucket: "work-out-cf4e6.firebasestorage.app",
+  messagingSenderId: "1022540281846",
+  appId: "1:1022540281846:web:fc484b5cdbe916fe5b79d7",
+  measurementId: "G-Z4CYSC2G2E",
 };
 
 // Initialize Firebase
